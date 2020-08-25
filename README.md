@@ -1,7 +1,7 @@
 ### Hi there, I'm [Howard Tseng!][website] 👋
 
 [![Website](https://img.shields.io/website?label=howardt12345.com&style=for-the-badge&url=https%3A%2F%2Fhowardt12345.com)](https://howardt12345.com)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeSTACKr)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/howardt12345)
 
 I'm a freelance photographer and front-end developer!
 
@@ -26,6 +26,6 @@ I'm a freelance photographer and front-end developer!
 
 [website]: https://howardt12345.com
 [dribbble]: https://dribbble.com/howardt12345
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/howardt12345
+[linkedin]: https://linkedin.com/in/howardt12345
 [redbubble]: https://www.redbubble.com/people/howardt12345/
