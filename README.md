@@ -5,6 +5,8 @@
 
 I'm a freelance photographer and front-end developer!
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="howardt12345.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,9 +16,11 @@ I'm a freelance photographer and front-end developer!
 [<img align="left" alt="codeSTACKr | Redbubble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redbubble.svg" />][redbubble]
 
 <br />
+
 ---
 
-<img align="left" alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=howardt12345&show_icons=true&hide_border=true&theme=dark" />
+### My Stats:
+<img align="left" alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=howardt12345&show_icons=true&hide_border=true&theme=dark&hide=contribs,issues" />
 
 
 
