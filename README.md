@@ -4,6 +4,8 @@
 
 I'm a freelance photographer and front-end developer!
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="howardt12345.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
