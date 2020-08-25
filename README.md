@@ -16,9 +16,6 @@ I'm a freelance photographer and front-end developer!
 
 <img align="left" alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=howardt12345&show_icons=true&hide_border=true&theme=dark" />
 
-<br />
-
-<img align="left" alt="Howard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardt12345&theme=dark" />
 
 [website]: https://howardt12345.com
 [dribbble]: https://dribbble.com/howardt12345
