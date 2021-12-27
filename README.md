@@ -22,7 +22,7 @@ I'm a freelance photographer and front-end developer!
 ### My Stats:
 <img align="left" alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=howardt12345&show_icons=true&hide_border=true&theme=dark&hide=contribs,issues" />
 
-<img align="left" alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&layout=compact&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Howard's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark" />
 
 
 [website]: https://howardt12345.com
