@@ -20,8 +20,6 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 
 ## 📊 Github stats
 
-[![wakatime](https://wakatime.com/badge/user/71a3ee43-af13-4e60-8072-48d908c4ee0c.svg)](https://wakatime.com/@71a3ee43-af13-4e60-8072-48d908c4ee0c)
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=howardt12345&show_icons=true&hide_border=true&theme=dark&hide=contribs,issues)
 
 ![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark)
