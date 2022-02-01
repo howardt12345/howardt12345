@@ -24,8 +24,6 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 
 ![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark)
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime/?&howardt12345&layout=compact&theme=dark&link=https://www.github.com/howardt12345/)
-
 
 [website]: https://howardt12345.com
 [dribbble]: https://dribbble.com/howardt12345
