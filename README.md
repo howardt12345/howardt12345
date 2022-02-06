@@ -22,7 +22,7 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=howardt12345&show_icons=true&hide_border=true&theme=dark&hide=contribs,issues)
 
-![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark)
+![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
 **Note**: Github stats are only metrics of my public code and do not reflect experience or skill level.
 
