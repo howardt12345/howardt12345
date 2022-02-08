@@ -25,6 +25,13 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 ![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   16 hrs 26 mins  █████████████▒░░░░░░░░░░░   53.70 % 
+HTML         6 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
+C            3 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+JSON         1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Java         1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+```
 <!--END_SECTION:waka-->
 
 **Note**: Development stats are only metrics of my public code and do not reflect experience or skill level.
