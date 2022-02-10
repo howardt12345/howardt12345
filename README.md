@@ -26,13 +26,13 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
-TypeScript   16 hrs 26 mins  █████████████▒░░░░░░░░░░░   53.70 % 
-HTML         6 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
-C            3 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-JSON         1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Java         1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+TypeScript   16 hrs 31 mins  █████████████▓░░░░░░░░░░░   55.00 % 
+HTML         5 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.58 % 
+C            3 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+JSON         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Java         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 <!--END_SECTION:waka-->
 
