@@ -26,9 +26,7 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 37 hrs 39 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 TypeScript   19 hrs 56 mins  █████████████▒░░░░░░░░░░░   52.86 % 
 Java         8 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 % 
