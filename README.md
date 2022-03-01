@@ -34,7 +34,7 @@ Other        31 hrs 59 mins  █████████████████
 
 <!--END_SECTION:waka-->
 
-**Note**: Development stats are only metrics of my public code and do not reflect experience or skill level.
+**Note**: Development stats are only metrics of my public code and do not reflect experience or skill level. Coding time stats maybe inaccurate and should not be used as a metric of my day-to-day productivity.
 
 [website]: https://howardt12345.com
 [dribbble]: https://dribbble.com/howardt12345
