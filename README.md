@@ -27,9 +27,9 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
-Other        34 hrs 23 mins  █████████████████░░░░░░░░   68.37 %
+Other         14 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.12 %
 ```
 
 <!--END_SECTION:waka-->
