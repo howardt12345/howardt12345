@@ -27,7 +27,7 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
@@ -70,20 +70,20 @@ Sunday       115 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 31 mins      ███████████░░░░░░░░░░░░░░   46.62% 
-JavaScript               9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.34% 
-Java                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-TypeScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-CSS                      1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
+Other                    15 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.44% 
+JavaScript               9 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   27.45% 
+Java                     3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+SQL                      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+TypeScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
 
 🔥 Editors: 
-Browser                  15 hrs 25 mins      ███████████░░░░░░░░░░░░░░   46.33% 
-VS Code                  14 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.63% 
-IntelliJ                 3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-DataGrip                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+VS Code                  16 hrs 22 mins      ███████████░░░░░░░░░░░░░░   47.37% 
+Browser                  15 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.84% 
+IntelliJ                 2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
+DataGrip                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 💻 Operating System: 
-Windows                  33 hrs 18 mins      █████████████████████████   100.0%
+Windows                  34 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
@@ -104,7 +104,7 @@ C#                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/howardt12345/howardt12345/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2022 00:54:16 UTC
+ Last Updated on 12/06/2022 00:52:29 UTC
 <!--END_SECTION:waka-->
 
 **Note**: Development stats are only metrics of my public code and do not reflect experience or skill level. Coding time stats may be inaccurate and should not be used as a metric of my day-to-day productivity.
