@@ -25,7 +25,7 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 ![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,19 +70,19 @@ Sunday       115 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       █████████████░░░░░░░░░░░░   54.12% 
-Other                    3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87% 
-Java                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+TypeScript               5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.33% 
+Other                    5 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.81% 
+Java                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 🔥 Editors: 
-VS Code                  11 hrs 16 mins      ████████████████░░░░░░░░░   65.11% 
-Browser                  3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-IntelliJ                 2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.34%
+VS Code                  7 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.88% 
+Browser                  5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   39.39% 
+IntelliJ                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.73%
 
 💻 Operating System: 
-Windows                  17 hrs 18 mins      █████████████████████████   100.0%
+Windows                  14 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ C#                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/howardt12345/howardt12345/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 00:50:59 UTC
+ Last Updated on 21/08/2022 00:51:53 UTC
 <!--END_SECTION:waka-->
 
 **Note**: Development stats are only metrics of my public code and do not reflect experience or skill level. Coding time stats may be inaccurate and should not be used as a metric of my day-to-day productivity.
