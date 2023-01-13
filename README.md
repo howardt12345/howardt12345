@@ -25,15 +25,15 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 ![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 948 Contributions in the Year 2022
+> 🏆 34 Contributions in the Year 2023
  > 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
@@ -43,25 +43,25 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
  > 
 > 🔑 17 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-🌆 Daytime    248 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    370 commits    ████████████░░░░░░░░░░░░░   49.73% 
-🌙 Night      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6%
+🌞 Morning    185 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
+🌆 Daytime    386 commits    █████████░░░░░░░░░░░░░░░░   36.62% 
+🌃 Evening    394 commits    █████████░░░░░░░░░░░░░░░░   37.38% 
+🌙 Night      89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56% 
-Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
-Thursday     94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Friday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-Saturday     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
-Sunday       150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.16%
+Monday       196 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+Tuesday      140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Wednesday    165 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Thursday     168 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Friday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Saturday     103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+Sunday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9%
 
 ```
 
@@ -70,17 +70,15 @@ Sunday       150 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 49 mins      ██████████████████████░░░   90.9% 
-TypeScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+Python                   2 hrs 10 mins       ██████████████████████░░░   88.16% 
+Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84%
 
 🔥 Editors: 
-VS Code                  19 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  2 hrs 12 mins       ██████████████████████░░░   89.02% 
+Browser                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
 
 💻 Operating System: 
-Windows                  19 hrs 36 mins      █████████████████████████   100.0%
+Windows                  2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +99,7 @@ C#                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/howardt12345/howardt12345/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 00:55:45 UTC
+ Last Updated on 13/01/2023 00:45:56 UTC
 <!--END_SECTION:waka-->
 
 **Note**: Development stats are only metrics of my public code and do not reflect experience or skill level. Coding time stats may be inaccurate and should not be used as a metric of my day-to-day productivity.
