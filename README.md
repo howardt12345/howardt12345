@@ -25,7 +25,7 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 ![github stats 1](https://github-readme-stats.vercel.app/api/top-langs?username=howardt12345&langs_count=8&show_icons=true&hide_border=true&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,18 +70,18 @@ Sunday       157 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 51 mins       ████████████████░░░░░░░░░   63.86% 
-JavaScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-HTML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-SCSS                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
+TypeScript               6 hrs 13 mins       ████████████████░░░░░░░░░   66.97% 
+HTML                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
+SCSS                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
 
 🔥 Editors: 
-VS Code                  7 hrs 35 mins       █████████████████████████   99.94% 
-IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+VS Code                  9 hrs 17 mins       █████████████████████████   99.95% 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Windows                  7 hrs 36 mins       █████████████████████████   100.0%
+Windows                  9 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +102,7 @@ C#                       3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/howardt12345/howardt12345/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2023 00:45:53 UTC
+ Last Updated on 05/02/2023 00:49:10 UTC
 <!--END_SECTION:waka-->
 
 **Note**: Development stats are only metrics of my public code and do not reflect experience or skill level. Coding time stats may be inaccurate and should not be used as a metric of my day-to-day productivity.
