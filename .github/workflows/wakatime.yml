@@ -19,4 +19,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_TIME: true
           LANG_COUNT: 8
-          TIME_RANGE: all_time 
+          TIME_RANGE: last_30_days 
