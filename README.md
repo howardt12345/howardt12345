@@ -27,18 +27,18 @@ I'm a freelance photographer, front-end developer, and keyboard designer!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2024 - To: 05 August 2024
+From: 07 July 2024 - To: 06 August 2024
 
-Total Time: 87 hrs 33 mins
+Total Time: 94 hrs 6 mins
 
-Python         34 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.89 %
-Java           25 hrs 20 mins  ███████░░░░░░░░░░░░░░░░░░   28.00 %
-TypeScript     13 hrs 32 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Vue.js         5 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JSON           4 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Other          2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Bash           1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-TOML           39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python         34 hrs 50 mins  █████████░░░░░░░░░░░░░░░░   35.88 %
+Java           26 hrs 35 mins  ███████░░░░░░░░░░░░░░░░░░   27.39 %
+TypeScript     17 hrs 28 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Vue.js         7 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+JSON           4 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other          2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Bash           1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TOML           39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
